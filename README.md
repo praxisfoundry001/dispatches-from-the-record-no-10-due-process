@@ -30,6 +30,6 @@ It also belongs with the broader *Dispatches from the Record* series and the Con
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: 10.5281/zenodo.19890947
 
 PDF available via DOI link once published.
